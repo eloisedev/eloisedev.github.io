@@ -1,21 +1,5 @@
 [
   {
-    "title": "Stick n Shoot-Morning",
-    "time": "9:40am - 10:50am",
-    "price": "$20.00",
-    "location": "MedStar Capitals Iceplex",
-    "link": "https://apps.daysmartrecreation.com/dash/x/#/online/capitals/event-registration?date=2025-12-06&sport_ids=31&",
-    "date": "2025-12-05"
-  },
-  {
-    "title": "Stick n Shoot-Morning",
-    "time": "9:40am - 10:50am",
-    "price": "$20.00",
-    "location": "MedStar Capitals Iceplex",
-    "link": "https://apps.daysmartrecreation.com/dash/x/#/online/capitals/event-registration?date=2025-12-06&&sport_ids=31",
-    "date": "2025-12-06"
-  },
-  {
     "title": "Stick and shoot",
     "time": "12:10 PM - 1:40 PM",
     "price": "$20.00",
@@ -108,7 +92,7 @@
     "time": "10:30am - 11:40am",
     "price": "$20.00",
     "location": "Ashburn Ice House",
-    "link": "https://apps.daysmartrecreation.com/dash/x/#/online/ashburn/event-registration?date=2025-12-11&&sport_ids=30",
+    "link": "https://apps.daysmartrecreation.com/dash/x/#/online/ashburn/event-registration?date=2025-12-11&sport_ids=30&",
     "date": "2025-12-11"
   },
   {
@@ -132,7 +116,7 @@
     "time": "12:00pm - 1:30pm",
     "price": "$20.00",
     "location": "Ashburn Ice House",
-    "link": "https://apps.daysmartrecreation.com/dash/x/#/online/ashburn/event-registration?date=2025-12-12&&sport_ids=30",
+    "link": "https://apps.daysmartrecreation.com/dash/x/#/online/ashburn/event-registration?date=2025-12-12&sport_ids=30&",
     "date": "2025-12-12"
   }
 ]

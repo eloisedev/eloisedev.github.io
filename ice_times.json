@@ -1,18 +1,26 @@
 [
   {
-    "title": "Stick n Shoot-Afternoon",
-    "time": "12:30pm - 1:40pm",
+    "title": "Stick n Shoot-Morning",
+    "time": "6:30am - 7:40am",
     "price": "$20.00",
     "location": "MedStar Capitals Iceplex",
-    "link": "https://apps.daysmartrecreation.com/dash/x/#/online/capitals/event-registration?date=2025-12-14&&sport_ids=31",
-    "date": "2025-12-13"
+    "link": "https://apps.daysmartrecreation.com/dash/x/#/online/capitals/event-registration?date=2025-12-15&sport_ids=31&",
+    "date": "2025-12-14"
   },
   {
-    "title": "Stick n Shoot-Afternoon",
-    "time": "12:30pm - 1:40pm",
+    "title": "Stick n Shoot-Morning",
+    "time": "11:10am - 12:20pm",
     "price": "$20.00",
     "location": "MedStar Capitals Iceplex",
-    "link": "https://apps.daysmartrecreation.com/dash/x/#/online/capitals/event-registration?date=2025-12-14&sport_ids=31&",
+    "link": "https://apps.daysmartrecreation.com/dash/x/#/online/capitals/event-registration?date=2025-12-15&sport_ids=31&",
+    "date": "2025-12-14"
+  },
+  {
+    "title": "Stick n Shoot- Weekday Afternoon",
+    "time": "12:00pm - 1:30pm",
+    "price": "$20.00",
+    "location": "Ashburn Ice House",
+    "link": "https://apps.daysmartrecreation.com/dash/x/#/online/ashburn/event-registration?date=2025-12-15&&sport_ids=30",
     "date": "2025-12-14"
   },
   {
@@ -84,7 +92,7 @@
     "time": "11:10am - 12:20pm",
     "price": "$20.00",
     "location": "MedStar Capitals Iceplex",
-    "link": "https://apps.daysmartrecreation.com/dash/x/#/online/capitals/event-registration?date=2025-12-16&sport_ids=31&",
+    "link": "https://apps.daysmartrecreation.com/dash/x/#/online/capitals/event-registration?date=2025-12-16&&sport_ids=31",
     "date": "2025-12-16"
   },
   {
@@ -124,7 +132,7 @@
     "time": "12:00pm - 1:30pm",
     "price": "$20.00",
     "location": "Ashburn Ice House",
-    "link": "https://apps.daysmartrecreation.com/dash/x/#/online/ashburn/event-registration?date=2025-12-17&&sport_ids=30",
+    "link": "https://apps.daysmartrecreation.com/dash/x/#/online/ashburn/event-registration?date=2025-12-17&sport_ids=30&",
     "date": "2025-12-17"
   },
   {
@@ -196,7 +204,7 @@
     "time": "6:30am - 7:40am",
     "price": "$20.00",
     "location": "MedStar Capitals Iceplex",
-    "link": "https://apps.daysmartrecreation.com/dash/x/#/online/capitals/event-registration?date=2025-12-19&&sport_ids=31",
+    "link": "https://apps.daysmartrecreation.com/dash/x/#/online/capitals/event-registration?date=2025-12-19&sport_ids=31&",
     "date": "2025-12-19"
   },
   {
@@ -204,7 +212,39 @@
     "time": "12:00pm - 1:30pm",
     "price": "$20.00",
     "location": "Ashburn Ice House",
-    "link": "https://apps.daysmartrecreation.com/dash/x/#/online/ashburn/event-registration?date=2025-12-19&&sport_ids=30",
+    "link": "https://apps.daysmartrecreation.com/dash/x/#/online/ashburn/event-registration?date=2025-12-19&sport_ids=30&",
     "date": "2025-12-19"
+  },
+  {
+    "title": "Stick n Shoot-Morning",
+    "time": "10:10am - 11:20am",
+    "price": "$20.00",
+    "location": "MedStar Capitals Iceplex",
+    "link": "https://apps.daysmartrecreation.com/dash/x/#/online/capitals/event-registration?date=2025-12-21&sport_ids=31&",
+    "date": "2025-12-21"
+  },
+  {
+    "title": "Stick and shoot",
+    "time": "12:10 PM - 1:40 PM",
+    "price": "$20.00",
+    "location": "Prince William Ice Center",
+    "link": "https://www.frontline-connect.com/monthlysched.cfm?fac=pwice&facid=1&session=3",
+    "date": "2025-12-21"
+  },
+  {
+    "title": "Stick and shoot",
+    "time": "2:10 PM - 3:40 PM",
+    "price": "$20.00",
+    "location": "Prince William Ice Center",
+    "link": "https://www.frontline-connect.com/monthlysched.cfm?fac=pwice&facid=1&session=3",
+    "date": "2025-12-21"
+  },
+  {
+    "title": "Stick and shoot",
+    "time": "4:00 PM - 5:30 PM",
+    "price": "$20.00",
+    "location": "Prince William Ice Center",
+    "link": "https://www.frontline-connect.com/monthlysched.cfm?fac=pwice&facid=1&session=3",
+    "date": "2025-12-21"
   }
 ]

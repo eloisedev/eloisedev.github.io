@@ -1,58 +1,10 @@
 [
   {
     "title": "Stick n Shoot-Afternoon",
-    "time": "3:50pm - 5:00pm",
+    "time": "11:00am - 12:10pm",
     "price": "$20.00",
     "location": "MedStar Capitals Iceplex",
-    "link": "https://apps.daysmartrecreation.com/dash/x/#/online/capitals/event-registration?date=2025-12-30&sport_ids=31&",
-    "date": "2025-12-29"
-  },
-  {
-    "title": "Stick n Shoot Evening",
-    "time": "6:30pm - 7:40pm",
-    "price": "$20.00",
-    "location": "MedStar Capitals Iceplex",
-    "link": "https://apps.daysmartrecreation.com/dash/x/#/online/capitals/event-registration?date=2025-12-30&sport_ids=31&",
-    "date": "2025-12-29"
-  },
-  {
-    "title": "Stick n Shoot- Weekday Afternoon",
-    "time": "6:10pm - 7:10pm",
-    "price": "$20.00",
-    "location": "Ashburn Ice House",
-    "link": "https://apps.daysmartrecreation.com/dash/x/#/online/ashburn/event-registration?date=2025-12-30&&sport_ids=30",
-    "date": "2025-12-29"
-  },
-  {
-    "title": "Stick and shoot",
-    "time": "1:50 PM - 3:20 PM",
-    "price": "$20.00",
-    "location": "Prince William Ice Center",
-    "link": "https://www.frontline-connect.com/monthlysched.cfm?fac=pwice&facid=1&session=3",
-    "date": "2025-12-29"
-  },
-  {
-    "title": "Stick and shoot",
-    "time": "3:40 PM - 5:10 PM",
-    "price": "$20.00",
-    "location": "Prince William Ice Center",
-    "link": "https://www.frontline-connect.com/monthlysched.cfm?fac=pwice&facid=1&session=3",
-    "date": "2025-12-29"
-  },
-  {
-    "title": "Stick n Shoot-Afternoon",
-    "time": "3:50pm - 5:00pm",
-    "price": "$20.00",
-    "location": "MedStar Capitals Iceplex",
-    "link": "https://apps.daysmartrecreation.com/dash/x/#/online/capitals/event-registration?date=2025-12-30&sport_ids=31&",
-    "date": "2025-12-30"
-  },
-  {
-    "title": "Stick n Shoot Evening",
-    "time": "6:30pm - 7:40pm",
-    "price": "$20.00",
-    "location": "MedStar Capitals Iceplex",
-    "link": "https://apps.daysmartrecreation.com/dash/x/#/online/capitals/event-registration?date=2025-12-30&sport_ids=31&",
+    "link": "https://apps.daysmartrecreation.com/dash/x/#/online/capitals/event-registration?date=2025-12-31&sport_ids=31&",
     "date": "2025-12-30"
   },
   {
@@ -60,7 +12,7 @@
     "time": "6:10pm - 7:10pm",
     "price": "$20.00",
     "location": "Ashburn Ice House",
-    "link": "https://apps.daysmartrecreation.com/dash/x/#/online/ashburn/event-registration?date=2025-12-30&&sport_ids=30",
+    "link": "https://apps.daysmartrecreation.com/dash/x/#/online/ashburn/event-registration?date=2025-12-31&&sport_ids=30",
     "date": "2025-12-30"
   },
   {
@@ -100,7 +52,7 @@
     "time": "11:00am - 12:10pm",
     "price": "$20.00",
     "location": "MedStar Capitals Iceplex",
-    "link": "https://apps.daysmartrecreation.com/dash/x/#/online/capitals/event-registration?date=2026-01-01&&sport_ids=31",
+    "link": "https://apps.daysmartrecreation.com/dash/x/#/online/capitals/event-registration?date=2026-01-01&sport_ids=31&",
     "date": "2026-01-01"
   },
   {
@@ -108,7 +60,7 @@
     "time": "3:30pm - 4:40pm",
     "price": "$20.00",
     "location": "MedStar Capitals Iceplex",
-    "link": "https://apps.daysmartrecreation.com/dash/x/#/online/capitals/event-registration?date=2026-01-01&&sport_ids=31",
+    "link": "https://apps.daysmartrecreation.com/dash/x/#/online/capitals/event-registration?date=2026-01-01&sport_ids=31&",
     "date": "2026-01-01"
   },
   {
@@ -116,7 +68,7 @@
     "time": "9:20am - 10:30am",
     "price": "$20.00",
     "location": "Ashburn Ice House",
-    "link": "https://apps.daysmartrecreation.com/dash/x/#/online/ashburn/event-registration?date=2026-01-01&sport_ids=30&",
+    "link": "https://apps.daysmartrecreation.com/dash/x/#/online/ashburn/event-registration?date=2026-01-01&&sport_ids=30",
     "date": "2026-01-01"
   },
   {
@@ -124,7 +76,7 @@
     "time": "1:40pm - 2:50pm",
     "price": "$20.00",
     "location": "Ashburn Ice House",
-    "link": "https://apps.daysmartrecreation.com/dash/x/#/online/ashburn/event-registration?date=2026-01-01&sport_ids=30&",
+    "link": "https://apps.daysmartrecreation.com/dash/x/#/online/ashburn/event-registration?date=2026-01-01&&sport_ids=30",
     "date": "2026-01-01"
   },
   {
@@ -132,7 +84,7 @@
     "time": "3:00pm - 4:10pm",
     "price": "$20.00",
     "location": "Ashburn Ice House",
-    "link": "https://apps.daysmartrecreation.com/dash/x/#/online/ashburn/event-registration?date=2026-01-01&sport_ids=30&",
+    "link": "https://apps.daysmartrecreation.com/dash/x/#/online/ashburn/event-registration?date=2026-01-01&&sport_ids=30",
     "date": "2026-01-01"
   },
   {
@@ -140,7 +92,7 @@
     "time": "4:10pm - 5:10pm",
     "price": "$20.00",
     "location": "Ashburn Ice House",
-    "link": "https://apps.daysmartrecreation.com/dash/x/#/online/ashburn/event-registration?date=2026-01-01&sport_ids=30&",
+    "link": "https://apps.daysmartrecreation.com/dash/x/#/online/ashburn/event-registration?date=2026-01-01&&sport_ids=30",
     "date": "2026-01-01"
   },
   {
@@ -188,7 +140,7 @@
     "time": "7:20am - 8:30am",
     "price": "$20.00",
     "location": "Ashburn Ice House",
-    "link": "https://apps.daysmartrecreation.com/dash/x/#/online/ashburn/event-registration?date=2026-01-02&sport_ids=30&",
+    "link": "https://apps.daysmartrecreation.com/dash/x/#/online/ashburn/event-registration?date=2026-01-02&&sport_ids=30",
     "date": "2026-01-02"
   },
   {
@@ -196,7 +148,15 @@
     "time": "12:00pm - 1:30pm",
     "price": "$20.00",
     "location": "Ashburn Ice House",
-    "link": "https://apps.daysmartrecreation.com/dash/x/#/online/ashburn/event-registration?date=2026-01-05&&sport_ids=30",
+    "link": "https://apps.daysmartrecreation.com/dash/x/#/online/ashburn/event-registration?date=2026-01-05&sport_ids=30&",
     "date": "2026-01-05"
+  },
+  {
+    "title": "Stick n Shoot- Weekday Afternoon",
+    "time": "12:00pm - 1:30pm",
+    "price": "$20.00",
+    "location": "Ashburn Ice House",
+    "link": "https://apps.daysmartrecreation.com/dash/x/#/online/ashburn/event-registration?date=2026-01-06&&sport_ids=30",
+    "date": "2026-01-06"
   }
 ]

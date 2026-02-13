@@ -1,50 +1,10 @@
 [
   {
     "title": "Stick n Shoot-Morning",
-    "time": "11:00am - 12:10pm",
-    "price": "$20.00",
-    "location": "MedStar Capitals Iceplex",
-    "link": "https://apps.daysmartrecreation.com/dash/x/#/online/capitals/event-registration?date=2026-02-12&&sport_ids=31",
-    "date": "2026-02-12"
-  },
-  {
-    "title": "Stick n Shoot- Weekday Afternoon",
-    "time": "10:30am - 11:40am",
-    "price": "$20.00",
-    "location": "Ashburn Ice House",
-    "link": "https://apps.daysmartrecreation.com/dash/x/#/online/ashburn/event-registration?date=2026-02-12&&sport_ids=30",
-    "date": "2026-02-12"
-  },
-  {
-    "title": "Stick and shoot",
-    "time": "11:40 AM - 1:10 PM",
-    "price": "$20.00",
-    "location": "Prince William Ice Center",
-    "link": "https://www.frontline-connect.com/monthlysched.cfm?fac=pwice&facid=1&session=3",
-    "date": "2026-02-12"
-  },
-  {
-    "title": "Stick and shoot",
-    "time": "1:30 PM - 2:30 PM",
-    "price": "$20.00",
-    "location": "Prince William Ice Center",
-    "link": "https://www.frontline-connect.com/monthlysched.cfm?fac=pwice&facid=1&session=3",
-    "date": "2026-02-12"
-  },
-  {
-    "title": "Stick and shoot",
-    "time": "6:40 PM - 8:00 PM",
-    "price": "$20.00",
-    "location": "Prince William Ice Center",
-    "link": "https://www.frontline-connect.com/monthlysched.cfm?fac=pwice&facid=1&session=3",
-    "date": "2026-02-12"
-  },
-  {
-    "title": "Stick n Shoot-Morning",
     "time": "6:30am - 7:40am",
     "price": "$20.00",
     "location": "MedStar Capitals Iceplex",
-    "link": "https://apps.daysmartrecreation.com/dash/x/#/online/capitals/event-registration?date=2026-02-13&sport_ids=31&",
+    "link": "https://apps.daysmartrecreation.com/dash/x/#/online/capitals/event-registration?date=2026-02-13&&sport_ids=31",
     "date": "2026-02-13"
   },
   {
@@ -84,7 +44,7 @@
     "time": "3:30pm - 4:40pm",
     "price": "$20.00",
     "location": "MedStar Capitals Iceplex",
-    "link": "https://apps.daysmartrecreation.com/dash/x/#/online/capitals/event-registration?date=2026-02-16&sport_ids=31&",
+    "link": "https://apps.daysmartrecreation.com/dash/x/#/online/capitals/event-registration?date=2026-02-16&&sport_ids=31",
     "date": "2026-02-16"
   },
   {
@@ -92,7 +52,7 @@
     "time": "7:20pm - 8:30pm",
     "price": "$20.00",
     "location": "MedStar Capitals Iceplex",
-    "link": "https://apps.daysmartrecreation.com/dash/x/#/online/capitals/event-registration?date=2026-02-16&sport_ids=31&",
+    "link": "https://apps.daysmartrecreation.com/dash/x/#/online/capitals/event-registration?date=2026-02-16&&sport_ids=31",
     "date": "2026-02-16"
   },
   {
@@ -198,5 +158,13 @@
     "location": "Prince William Ice Center",
     "link": "https://www.frontline-connect.com/monthlysched.cfm?fac=pwice&facid=1&session=3",
     "date": "2026-02-19"
+  },
+  {
+    "title": "Adult Pickup- Weekday Afternoon",
+    "time": "12:00pm - 1:30pm",
+    "price": "$20.00",
+    "location": "Ashburn Ice House",
+    "link": "https://apps.daysmartrecreation.com/dash/x/#/online/ashburn/event-registration?date=2026-02-20&&sport_ids=30",
+    "date": "2026-02-20"
   }
 ]

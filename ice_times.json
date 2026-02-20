@@ -1,29 +1,5 @@
 [
   {
-    "title": "Stick n Shoot- Weekday Afternoon",
-    "time": "10:30am - 11:40am",
-    "price": "$20.00",
-    "location": "Ashburn Ice House",
-    "link": "https://apps.daysmartrecreation.com/dash/x/#/online/ashburn/event-registration?date=2026-02-19&&sport_ids=30",
-    "date": "2026-02-19"
-  },
-  {
-    "title": "Stick and shoot",
-    "time": "11:40 AM - 1:10 PM",
-    "price": "$20.00",
-    "location": "Prince William Ice Center",
-    "link": "https://www.frontline-connect.com/monthlysched.cfm?fac=pwice&facid=1&session=3",
-    "date": "2026-02-19"
-  },
-  {
-    "title": "Stick and shoot",
-    "time": "6:00 PM - 7:20 PM",
-    "price": "$20.00",
-    "location": "Prince William Ice Center",
-    "link": "https://www.frontline-connect.com/monthlysched.cfm?fac=pwice&facid=1&session=3",
-    "date": "2026-02-19"
-  },
-  {
     "title": "Stick n Shoot-Morning",
     "time": "11:00am - 12:10pm",
     "price": "$20.00",
@@ -92,7 +68,7 @@
     "time": "12:00pm - 1:30pm",
     "price": "$20.00",
     "location": "Ashburn Ice House",
-    "link": "https://apps.daysmartrecreation.com/dash/x/#/online/ashburn/event-registration?date=2026-02-23&sport_ids=30&",
+    "link": "https://apps.daysmartrecreation.com/dash/x/#/online/ashburn/event-registration?date=2026-02-23&&sport_ids=30",
     "date": "2026-02-23"
   },
   {
@@ -150,5 +126,21 @@
     "location": "Prince William Ice Center",
     "link": "https://www.frontline-connect.com/monthlysched.cfm?fac=pwice&facid=1&session=3",
     "date": "2026-02-26"
+  },
+  {
+    "title": "Stick n Shoot-Afternoon",
+    "time": "3:30pm - 4:40pm",
+    "price": "$20.00",
+    "location": "MedStar Capitals Iceplex",
+    "link": "https://apps.daysmartrecreation.com/dash/x/#/online/capitals/event-registration?date=2026-02-27&&sport_ids=31",
+    "date": "2026-02-27"
+  },
+  {
+    "title": "Adult Pickup- Weekday Afternoon",
+    "time": "12:00pm - 1:30pm",
+    "price": "$20.00",
+    "location": "Ashburn Ice House",
+    "link": "https://apps.daysmartrecreation.com/dash/x/#/online/ashburn/event-registration?date=2026-02-27&&sport_ids=30",
+    "date": "2026-02-27"
   }
 ]

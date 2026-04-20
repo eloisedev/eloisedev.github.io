@@ -1,62 +1,6 @@
 [
   {
     "title": "Stick n Shoot-Morning",
-    "time": "10:10am - 11:20am",
-    "price": "$20.00",
-    "location": "MedStar Capitals Iceplex",
-    "link": "https://apps.daysmartrecreation.com/dash/x/#/online/capitals/event-registration?date=2026-04-19&&sport_ids=31",
-    "date": "2026-04-19"
-  },
-  {
-    "title": "Stick n Shoot-Afternoon",
-    "time": "3:30pm - 4:40pm",
-    "price": "$20.00",
-    "location": "MedStar Capitals Iceplex",
-    "link": "https://apps.daysmartrecreation.com/dash/x/#/online/capitals/event-registration?date=2026-04-19&&sport_ids=31",
-    "date": "2026-04-19"
-  },
-  {
-    "title": "Stick n Shoot 12U",
-    "time": "5:40pm - 7:00pm",
-    "price": "$20.00",
-    "location": "Ashburn Ice House",
-    "link": "https://apps.daysmartrecreation.com/dash/x/#/online/ashburn/event-registration?date=2026-04-19&&sport_ids=30",
-    "date": "2026-04-19"
-  },
-  {
-    "title": "Stick n Shoot- Weekends",
-    "time": "7:20pm - 8:30pm",
-    "price": "$20.00",
-    "location": "Ashburn Ice House",
-    "link": "https://apps.daysmartrecreation.com/dash/x/#/online/ashburn/event-registration?date=2026-04-19&&sport_ids=30",
-    "date": "2026-04-19"
-  },
-  {
-    "title": "Stick and shoot",
-    "time": "12:10 PM - 1:50 PM",
-    "price": "$20.00",
-    "location": "Prince William Ice Center",
-    "link": "https://www.frontline-connect.com/monthlysched.cfm?fac=pwice&facid=1&session=3",
-    "date": "2026-04-19"
-  },
-  {
-    "title": "Stick and shoot",
-    "time": "2:10 PM - 3:40 PM",
-    "price": "$20.00",
-    "location": "Prince William Ice Center",
-    "link": "https://www.frontline-connect.com/monthlysched.cfm?fac=pwice&facid=1&session=3",
-    "date": "2026-04-19"
-  },
-  {
-    "title": "Stick and shoot",
-    "time": "4:00 PM - 5:30 PM",
-    "price": "$20.00",
-    "location": "Prince William Ice Center",
-    "link": "https://www.frontline-connect.com/monthlysched.cfm?fac=pwice&facid=1&session=3",
-    "date": "2026-04-19"
-  },
-  {
-    "title": "Stick n Shoot-Morning",
     "time": "11:10am - 12:20pm",
     "price": "$20.00",
     "location": "MedStar Capitals Iceplex",
@@ -113,7 +57,7 @@
   },
   {
     "title": "Stick n Shoot- Weekday Afternoon",
-    "time": "12:00pm - 1:20pm",
+    "time": "12:40pm - 1:50pm",
     "price": "$20.00",
     "location": "Ashburn Ice House",
     "link": "https://apps.daysmartrecreation.com/dash/x/#/online/ashburn/event-registration?date=2026-04-21&&sport_ids=30",
@@ -121,7 +65,7 @@
   },
   {
     "title": "Stick n Shoot- Weekday Afternoon",
-    "time": "3:50pm - 4:50pm",
+    "time": "4:00pm - 5:00pm",
     "price": "$20.00",
     "location": "Ashburn Ice House",
     "link": "https://apps.daysmartrecreation.com/dash/x/#/online/ashburn/event-registration?date=2026-04-21&&sport_ids=30",
@@ -358,5 +302,37 @@
     "location": "Prince William Ice Center",
     "link": "https://www.frontline-connect.com/monthlysched.cfm?fac=pwice&facid=1&session=3",
     "date": "2026-04-26"
+  },
+  {
+    "title": "Stick n Shoot- Weekday Afternoon",
+    "time": "12:00pm - 1:20pm",
+    "price": "$20.00",
+    "location": "Ashburn Ice House",
+    "link": "https://apps.daysmartrecreation.com/dash/x/#/online/ashburn/event-registration?date=2026-04-27&&sport_ids=30",
+    "date": "2026-04-27"
+  },
+  {
+    "title": "Stick and shoot",
+    "time": "12:20 PM - 1:50 PM",
+    "price": "$20.00",
+    "location": "Prince William Ice Center",
+    "link": "https://www.frontline-connect.com/monthlysched.cfm?fac=pwice&facid=1&session=3",
+    "date": "2026-04-27"
+  },
+  {
+    "title": "Stick and shoot",
+    "time": "2:10 PM - 3:40 PM",
+    "price": "$20.00",
+    "location": "Prince William Ice Center",
+    "link": "https://www.frontline-connect.com/monthlysched.cfm?fac=pwice&facid=1&session=3",
+    "date": "2026-04-27"
+  },
+  {
+    "title": "Stick and shoot",
+    "time": "4:00 PM - 5:30 PM",
+    "price": "$20.00",
+    "location": "Prince William Ice Center",
+    "link": "https://www.frontline-connect.com/monthlysched.cfm?fac=pwice&facid=1&session=3",
+    "date": "2026-04-27"
   }
 ]

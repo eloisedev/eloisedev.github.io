@@ -1,31 +1,15 @@
 [
   {
-    "title": "Stick and shoot",
-    "time": "11:40 AM - 1:20 PM",
-    "price": "$20.00",
-    "location": "Prince William Ice Center",
-    "link": "https://www.frontline-connect.com/monthlysched.cfm?fac=pwice&facid=1&session=3",
-    "date": "2026-09-13"
-  },
-  {
-    "title": "Stick and shoot",
-    "time": "1:40 PM - 3:30 PM",
-    "price": "$20.00",
-    "location": "Prince William Ice Center",
-    "link": "https://www.frontline-connect.com/monthlysched.cfm?fac=pwice&facid=1&session=3",
-    "date": "2026-09-13"
-  },
-  {
-    "title": "Stick and shoot",
-    "time": "4:00 PM - 5:30 PM",
-    "price": "$20.00",
-    "location": "Prince William Ice Center",
-    "link": "https://www.frontline-connect.com/monthlysched.cfm?fac=pwice&facid=1&session=3",
-    "date": "2026-09-13"
-  },
-  {
     "title": "Stick n Shoot-Afternoon",
     "time": "3:30pm - 4:40pm",
+    "price": "$20.00",
+    "location": "MedStar Capitals Iceplex",
+    "link": "https://apps.daysmartrecreation.com/dash/x/capitals/event-registration?date=2026-09-14&&sport_ids=31",
+    "date": "2026-09-14"
+  },
+  {
+    "title": "Stick n Shoot Evening",
+    "time": "9:30pm - 10:40pm",
     "price": "$20.00",
     "location": "MedStar Capitals Iceplex",
     "link": "https://apps.daysmartrecreation.com/dash/x/capitals/event-registration?date=2026-09-14&&sport_ids=31",
@@ -142,5 +126,13 @@
     "location": "Prince William Ice Center",
     "link": "https://www.frontline-connect.com/monthlysched.cfm?fac=pwice&facid=1&session=3",
     "date": "2026-09-20"
+  },
+  {
+    "title": "Stick and shoot",
+    "time": "11:40 AM - 1:30 PM",
+    "price": "$20.00",
+    "location": "Prince William Ice Center",
+    "link": "https://www.frontline-connect.com/monthlysched.cfm?fac=pwice&facid=1&session=3",
+    "date": "2026-09-21"
   }
 ]
